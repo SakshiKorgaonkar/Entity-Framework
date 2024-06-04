@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52CCCA7F-DAE0-4753-A955-E87ACAED82A2}|ModelLayer\\ModelLayer.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\modellayer\\userml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52CCCA7F-DAE0-4753-A955-E87ACAED82A2}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\userml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEF8D1B-01E6-4A98-BF58-2D3241AAE635}|BusinessLayer3\\BusinessLayer3.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\businesslayer3\\interface\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEF8D1B-01E6-4A98-BF58-2D3241AAE635}|BusinessLayer3\\BusinessLayer3.csproj|solutionrelative:businesslayer3\\interface\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2692CC2-FEB5-404C-8C90-2DED401F97CA}|RepoLayer\\RepoLayer.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\repolayer\\service\\userrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2692CC2-FEB5-404C-8C90-2DED401F97CA}|RepoLayer\\RepoLayer.csproj|solutionrelative:repolayer\\service\\userrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6E6BA9-C93E-4CE2-BE91-E41EBA5FC649}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\projectdemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6E6BA9-C93E-4CE2-BE91-E41EBA5FC649}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEF8D1B-01E6-4A98-BF58-2D3241AAE635}|BusinessLayer3\\BusinessLayer3.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\businesslayer3\\service\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEF8D1B-01E6-4A98-BF58-2D3241AAE635}|BusinessLayer3\\BusinessLayer3.csproj|solutionrelative:businesslayer3\\service\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2692CC2-FEB5-404C-8C90-2DED401F97CA}|RepoLayer\\RepoLayer.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\repolayer\\interface\\iuserrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2692CC2-FEB5-404C-8C90-2DED401F97CA}|RepoLayer\\RepoLayer.csproj|solutionrelative:repolayer\\interface\\iuserrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6E6BA9-C93E-4CE2-BE91-E41EBA5FC649}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\projectdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD6E6BA9-C93E-4CE2-BE91-E41EBA5FC649}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6E6BA9-C93E-4CE2-BE91-E41EBA5FC649}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\projectdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD6E6BA9-C93E-4CE2-BE91-E41EBA5FC649}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6E6BA9-C93E-4CE2-BE91-E41EBA5FC649}|ProjectDemo\\ProjectDemo.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\projectdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD6E6BA9-C93E-4CE2-BE91-E41EBA5FC649}|ProjectDemo\\ProjectDemo.csproj|solutionrelative:projectdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2692CC2-FEB5-404C-8C90-2DED401F97CA}|RepoLayer\\RepoLayer.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\repolayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2692CC2-FEB5-404C-8C90-2DED401F97CA}|RepoLayer\\RepoLayer.csproj|solutionrelative:repolayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2692CC2-FEB5-404C-8C90-2DED401F97CA}|RepoLayer\\RepoLayer.csproj|c:\\users\\dell\\onedrive - here global b.v\\desktop\\cdac\\bridgelabz_assignment1\\ado.net demo\\projectdemo\\repolayer\\context\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2692CC2-FEB5-404C-8C90-2DED401F97CA}|RepoLayer\\RepoLayer.csproj|solutionrelative:repolayer\\context\\projectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserBl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\BusinessLayer3\\Service\\UserBl.cs",
+              "RelativeDocumentMoniker": "BusinessLayer3\\Service\\UserBl.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\BusinessLayer3\\Service\\UserBl.cs",
+              "RelativeToolTip": "BusinessLayer3\\Service\\UserBl.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:20:59.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserBl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\BusinessLayer3\\Interface\\IUserBl.cs",
+              "RelativeDocumentMoniker": "BusinessLayer3\\Interface\\IUserBl.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\BusinessLayer3\\Interface\\IUserBl.cs",
+              "RelativeToolTip": "BusinessLayer3\\Interface\\IUserBl.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:20:06.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\RepoLayer\\Service\\UserRl.cs",
+              "RelativeDocumentMoniker": "RepoLayer\\Service\\UserRl.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\RepoLayer\\Service\\UserRl.cs",
+              "RelativeToolTip": "RepoLayer\\Service\\UserRl.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:14:13.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMl.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ModelLayer\\UserMl.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\UserMl.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ModelLayer\\UserMl.cs",
+              "RelativeToolTip": "ModelLayer\\UserMl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:09:02.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\RepoLayer\\Interface\\IUserRL.cs",
+              "RelativeDocumentMoniker": "RepoLayer\\Interface\\IUserRL.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\RepoLayer\\Interface\\IUserRL.cs",
+              "RelativeToolTip": "RepoLayer\\Interface\\IUserRL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:05:16.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ProjectDemo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ProjectDemo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ProjectDemo\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:01:42.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ProjectDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjectDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ProjectDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjectDemo\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T09:56:46.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ProjectDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ProjectDemo\\appsettings.json",
+              "RelativeToolTip": "ProjectDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T09:41:56.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ProjectDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\ProjectDemo\\Program.cs",
+              "RelativeToolTip": "ProjectDemo\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:35:02.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\RepoLayer\\Context\\ProjectContext.cs",
+              "RelativeDocumentMoniker": "RepoLayer\\Context\\ProjectContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\RepoLayer\\Context\\ProjectContext.cs",
+              "RelativeToolTip": "RepoLayer\\Context\\ProjectContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:25:03.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\RepoLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "RepoLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - HERE Global B.V\\Desktop\\CDAC\\BridgeLabz_Assignment1\\Ado.Net Demo\\ProjectDemo\\RepoLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "RepoLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:22:35.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
